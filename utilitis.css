@@ -1,0 +1,35 @@
+#hed-btn {
+    padding: 16px 18px;
+    border: none;
+    background-color: rgba(236, 171, 49, 0.829);
+    border-radius: 6px;
+    cursor: pointer;
+
+}
+
+#hed-btn:focus {
+    background-color: black;
+    color: white;
+    opacity: 0.8;
+    
+}
+
+h4 {
+    line-height: 32px;
+}
+
+.boxShadow {
+    /* display: inline-block; */
+    border: 2px solid wheat;
+    border-radius: 6px;
+    box-shadow: black 2px 1px 2px 1px;
+    padding: 10px 6px;
+    margin-bottom: 20px;
+
+}
+
+.boxShadow p {
+    font-size: 10px;
+    line-height: 14px;
+    font-weight: bold;
+}
